@@ -1,0 +1,9 @@
+# ide configure
+.vscode
+.idea
+
+# vendor
+vendor
+
+# go mod cache
+go.sum
